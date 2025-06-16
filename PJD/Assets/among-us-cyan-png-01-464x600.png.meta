@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      among-us-cyan-png-01-464x600_0: -8171838994158507388
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
